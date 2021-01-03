@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://linkedin.com/in/fuchs-daniel-iot
-[email]: fuxeysolution@gmail.com
+[email]: <fuxeysolution@gmail.com>
