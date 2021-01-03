@@ -27,7 +27,7 @@
 
 
 ## 📫 How to reach me: 
-[<img alt="email" src="https://github.com/fuxey/fuxey/raw/master/email.svg" />][email] :austria:
+[<img alt="email" src="https://github.com/fuxey/fuxey/raw/master/email.svg" />][email]:austria:
 [<img alt="DanielFuchs | LinkedIn"  src="https://github.com/fuxey/fuxey/raw/master/linkedin.svg" />][linkedin]
 
 
@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 -->
 
 [linkedin]: https://linkedin.com/in/fuchs-daniel-iot
-[email]: <fuxeysolution@gmail.com>
+[email]: mailto:<fuxeysolution@gmail.com> 
